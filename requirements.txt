@@ -10,7 +10,7 @@ Markdown==3.0.1
 numpy==1.16.1
 pkg-resources==0.0.0
 protobuf==3.6.1
-PyYAML==3.13
+pyyaml>=4.2b1
 scipy==0.18.0rc2
 six==1.12.0
 tensorboard==1.11.0
